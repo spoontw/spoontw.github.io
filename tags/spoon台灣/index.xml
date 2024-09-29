@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spoon台灣 on Spoon台灣官方部落格</title>
+    <link>http://localhost:1313/tags/spoon%E5%8F%B0%E7%81%A3/</link>
+    <description>Recent content in Spoon台灣 on Spoon台灣官方部落格</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 28 Sep 2024 10:07:47 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/spoon%E5%8F%B0%E7%81%A3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>my first post</title>
+      <link>http://localhost:1313/blog/test/</link>
+      <pubDate>Sat, 28 Sep 2024 10:07:47 +0900</pubDate>
+      <guid>http://localhost:1313/blog/test/</guid>
+      <description>&lt;p&gt;hello world&lt;/p&gt;&#xA;&lt;p&gt;Spoon&lt;/p&gt;&#xA;&lt;h1 id=&#34;一級標題&#34;&gt;一級標題&lt;/h1&gt;&#xA;&lt;h2 id=&#34;二級標題&#34;&gt;二級標題&lt;/h2&gt;&#xA;&lt;h6 id=&#34;六級標題&#34;&gt;六級標題&lt;/h6&gt;&#xA;&lt;p&gt;我是&lt;strong&gt;阿柴&lt;/strong&gt;，我喜歡&lt;em&gt;學習&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;認識spoon&#xA;&lt;ol&gt;&#xA;&lt;li&gt;how&#xA;&lt;ol&gt;&#xA;&lt;li&gt;when&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;hello&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;hello&#xA;&lt;ul&gt;&#xA;&lt;li&gt;what&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;how are you&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;hello&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
