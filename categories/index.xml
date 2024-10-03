@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Spoon台灣官方部落格</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://spoontw.github.io/categories/</link>
     <description>Recent content in Categories on Spoon台灣官方部落格</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 29 Sep 2024 12:07:47 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://spoontw.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>新手指南</title>
-      <link>http://localhost:1313/categories/%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97/</link>
+      <link>https://spoontw.github.io/categories/%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97/</link>
       <pubDate>Sun, 29 Sep 2024 12:07:47 +0900</pubDate>
-      <guid>http://localhost:1313/categories/%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97/</guid>
+      <guid>https://spoontw.github.io/categories/%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97/</guid>
       <description></description>
     </item>
     <item>
       <title>Go Language</title>
-      <link>http://localhost:1313/categories/go-language/</link>
+      <link>https://spoontw.github.io/categories/go-language/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      <guid>http://localhost:1313/categories/go-language/</guid>
+      <guid>https://spoontw.github.io/categories/go-language/</guid>
       <description></description>
     </item>
   </channel>
