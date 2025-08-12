@@ -2,61 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://spoontw.github.io/blog/</loc>
     <lastmod>2025-06-19T10:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://spoontw.github.io/</loc>
     <lastmod>2025-06-19T10:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-19T10:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-06-19T10:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/post8/</loc>
-    <lastmod>2025-06-19T10:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/%E6%B4%BB%E5%8B%95%E6%8C%87%E5%8D%97/</loc>
-    <lastmod>2025-06-19T10:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E6%B4%BB%E5%8B%95%E6%8C%87%E5%8D%97/</loc>
-    <lastmod>2025-06-19T10:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97/</loc>
+    <loc>https://spoontw.github.io/categories/</loc>
     <lastmod>2024-11-13T10:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97/</loc>
+    <loc>https://spoontw.github.io/tags/</loc>
     <lastmod>2024-11-13T10:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/post7/</loc>
+    <loc>https://spoontw.github.io/categories/%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97/</loc>
     <lastmod>2024-11-13T10:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/post6/</loc>
+    <loc>https://spoontw.github.io/tags/%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97/</loc>
+    <lastmod>2024-11-13T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://spoontw.github.io/blog/post7/</loc>
+    <lastmod>2024-11-13T10:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://spoontw.github.io/blog/post6/</loc>
     <lastmod>2024-10-28T10:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/post5/</loc>
+    <loc>https://spoontw.github.io/blog/post5/</loc>
     <lastmod>2024-10-23T10:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/post4/</loc>
+    <loc>https://spoontw.github.io/blog/post4/</loc>
     <lastmod>2024-10-17T10:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/post3/</loc>
+    <loc>https://spoontw.github.io/blog/post3/</loc>
     <lastmod>2024-10-11T10:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/post2/</loc>
+    <loc>https://spoontw.github.io/blog/post2/</loc>
     <lastmod>2024-10-10T12:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/post1/</loc>
+    <loc>https://spoontw.github.io/blog/post1/</loc>
     <lastmod>2024-10-08T10:00:00+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://spoontw.github.io/about/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://spoontw.github.io/contact/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://spoontw.github.io/search/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url>
 </urlset>
